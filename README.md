@@ -1,4 +1,4 @@
-# test-heroku-button
+# Heroku Button Template
 Test Heroku Button
 
 
@@ -7,3 +7,6 @@ Test Heroku Button
 </a>
 
 <a href="https://heroku.com/deploy?template=https://github.com/Pukhovskyi/test-heroku-button/main">Heroku</a>
+
+
+## Running On Heroku
