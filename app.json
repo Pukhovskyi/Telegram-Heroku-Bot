@@ -3,5 +3,8 @@
   "description": "Simple deploy php app using heroku button.",
   "repository": "https://github.com/Pukhovskyi/test-heroku-button/tree/main",
   "logo": "https://github.com/Pukhovskyi/test-heroku-button/raw/main/tg-heroku.png",
-  "keywords": ["php", "express", "static"]
+  "keywords": ["php", "express", "static"],
+  "env":{
+    "API":"Bot API"
+  }
 }
