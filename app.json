@@ -2,6 +2,6 @@
   "name": "PHP Tg Bot Sample",
   "description": "Simple deploy php app using heroku button.",
   "repository": "https://github.com/Pukhovskyi/test-heroku-button/tree/main",
-  "logo": "https://telegram.org/img/favicon.ico",
+  "logo": "https://github.com/Pukhovskyi/test-heroku-button/raw/main/TgHeroku.png",
   "keywords": ["php", "express", "static"]
 }
