@@ -5,6 +5,6 @@
   "logo": "https://github.com/Pukhovskyi/test-heroku-button/raw/main/tg-heroku.png",
   "keywords": ["php", "express", "static"],
   "env":{
-    "API":"Bot API"
+    "API":""
   }
 }
