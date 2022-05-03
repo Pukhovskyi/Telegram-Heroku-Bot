@@ -5,10 +5,25 @@ Test Heroku Button
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
-## Create project on Heroku manualy
+## Project initialization Heroku CLI
 
 ```sh
+
+heroku login
+
 git init
+
+git add .
+
+```
+
+## Upload project on Heroku CLI
+
+```sh
+
+git commit -am "Create new Telegram Bot."
+
+git push heroku master 
 
 ```
 
